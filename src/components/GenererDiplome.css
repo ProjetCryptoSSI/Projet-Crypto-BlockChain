@@ -1,0 +1,17 @@
+#content_generer{
+	padding-left: 400px;
+}
+#content_generer h1{
+	font-size: 40px;
+	padding-left: 80px;
+}
+#content_generer input{
+	width: 400px;
+	padding-top: 5px;
+	height: 45px;
+}
+#content_generer button{
+	position: relative;
+	left: 25px;
+	width: 410px;
+}

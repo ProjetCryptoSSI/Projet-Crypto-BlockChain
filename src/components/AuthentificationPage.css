@@ -1,0 +1,57 @@
+.App{
+	text-align: center;
+    display: flex; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+	  height: 700px;
+    width: 100%;
+    background-color: #e1e3eb;
+   
+}
+input{
+      width: 300px;
+      height: 50px;
+      border-radius: 10px;
+      border: 2px solid black;
+  	  border-width: 1px;
+  	  background-color: #fff;
+  	  position: relative;
+   	  left: 30px;
+  }
+#b2{
+	    width: 130px;
+      height: 50px;
+      border-radius: 10px;
+      color: white;
+      font-size: 20px;
+      border: none;
+      position: relative;
+  	  left: 40px;
+}
+#cert{
+      position: relative;
+      left: 250px; 
+}
+h1{
+	padding-left: 30px;
+}
+.container {
+      font-family: arial;
+      font-size: 24px;
+      margin: 25px;
+      width: 350px;
+      height: 200px;
+      outline: dashed 1px black;
+      /* Setup */
+      position: relative;
+    }
+    
+.child{
+      width: 50px;
+      height: 50px;
+      background-color: red;
+      /* Center vertically and horizontally */
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin: -25px 0 0 -25px; /* Apply negative top and left margins to truly center the element */}

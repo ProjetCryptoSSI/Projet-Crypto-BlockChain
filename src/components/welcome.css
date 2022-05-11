@@ -1,0 +1,17 @@
+#content_welcome  h1{
+    text-align: center;
+    text-decoration-line: overline;
+    text-decoration-color: black;
+    font-size: 70px;
+    position: relative;
+  left:280px;
+  top: 150px;
+
+    }
+#content_welcome p{
+  position: relative;
+  left: 430px;
+  top: 150px;
+  font-size: 20px;
+
+}
